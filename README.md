@@ -18,8 +18,7 @@ Download image
 <img src="captcha.png" width=500px/>
 
 **Step 2:**
-Make image black and white, monochrome using imagemagic tools.
-Option
+The most import part in automation is to make image black and white, monochrome using imagemagic tools.
 ```sh
 # convert captcha.png -fill black -fuzz 30% +opaque "#BAB5BB" -negate -monochrome result.png
 ```
