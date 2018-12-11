@@ -1,7 +1,7 @@
 # captcha-cracking
 Simple captcha cracking methods 
 
-Using following simple steps you can easily convert and automatically recognize alpha-numeric captcha with medium rate of success.
+Using following simple steps you can easily convert and automatically recognize alpha-numeric captcha with high rate of success.
 It may be useful for fast creation of proof-of-concept.
 
 **Preparement:**
