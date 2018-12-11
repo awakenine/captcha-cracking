@@ -37,9 +37,9 @@ Estimating resolution as 321
 ```
 
 **Additional info:**
-I had to install eng.traineddata from github, because mine was broken
+I had to install eng.traineddata from github, because the tainedata file for tesseract from kali repo was broken
 ```
-rm /usr/share/tesseract-ocr/4.00/tessdata/eng.traineddata; wget https://github.com/tesseract-ocr/tessdata/raw/master/eng.traineddata -O /usr/share/tesseract-ocr/4.00/tessdata/eng.traineddata
+# rm /usr/share/tesseract-ocr/4.00/tessdata/eng.traineddata; wget https://github.com/tesseract-ocr/tessdata/raw/master/eng.traineddata -O /usr/share/tesseract-ocr/4.00/tessdata/eng.traineddata
 ```
 Tesseract version used:
 ```
