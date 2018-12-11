@@ -3,10 +3,11 @@ Simple captcha cracking methods
 
 Using following simple steps you can easily convert and automatically recognize alpha-numeric captcha with medium rate of success.
 It may be useful for fast creation of proof-of-concept.
+
 **Preparement:**
-Install required packages:
+Install required packages
 ```sh
-# apt install tesseract-ocr imagemagick curl
+# apt install tesseract-ocr libtesseract4 imagemagick curl
 ```
 
 **Step 1:**
