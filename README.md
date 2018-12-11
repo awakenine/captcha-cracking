@@ -34,9 +34,8 @@ Warning: Invalid resolution 0 dpi. Using 70 instead.
 Estimating resolution as 321
 29c70d
 ```
-<img src="result.png" width=500px/>
 
-Additional info:
+**Additional info:**
 I had to install eng.traineddata from github, because mine was broken
 ```
 rm /usr/share/tesseract-ocr/4.00/tessdata/eng.traineddata; wget https://github.com/tesseract-ocr/tessdata/raw/master/eng.traineddata -O /usr/share/tesseract-ocr/4.00/tessdata/eng.traineddata
